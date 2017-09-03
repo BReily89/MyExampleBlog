@@ -1,0 +1,54 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:chartreuse;
+}
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#97049F ;
+
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: bold;
+    text-decoration-line: underline;
+}
+p {
+    text-justify:wrap;
+    padding: 50px;
+    color: chartreuse;
+
+}
+nav {
+    text-align: center;
+    text-decoration-line: underline;
+    color:#97049F;
+    word-wrap: center;
+}
+a{
+    text-align: center;
+    color:  white;
+    display: inline;
+
+}
+div{
+    color:white;
+    clear: both;
+}
+#image2 {
+    float: left;
+    width:66%;
+    }
+#image3 {
+    float: right;
+    width: 50%;
+}
+p1 {
+    align-content: center;
+    color:whitesmoke;
+}
+p3 {
+    color: black;
+    
+}
